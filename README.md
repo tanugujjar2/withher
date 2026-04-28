@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<
 # pcos_caregiver_companion
 
 Soft, supportive Flutter mobile app for **partners and family members** who want to understand and support loved ones living with **PCOS/PCOD**.
